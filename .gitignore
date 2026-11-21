@@ -1,0 +1,16 @@
+# Dependencies and build output — never committed.
+node_modules/
+out/
+*.log
+
+# make.fun press pack — fetched fresh per session, never stored in the repo.
+make-fun-press-kit/
+make-fun-press-kit.zip
+press-manifest-fetched.json
+press-llms-fetched.txt
+press-llms.txt
+press-manifest.json
+public/assets/
+
+# Parent-run bookkeeping, not part of the entry.
+prompt.txt

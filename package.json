@@ -1,0 +1,32 @@
+{
+  "name": "makefun-bring-the-humans-03",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rezzrizz25/makefun-bring-the-humans-03.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rezzrizz25/makefun-bring-the-humans-03/issues"
+  },
+  "homepage": "https://github.com/Rezzrizz25/makefun-bring-the-humans-03#readme",
+  "dependencies": {
+    "@remotion/cli": "^4.0.545",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "remotion": "^4.0.545"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "typescript": "^7.0.2"
+  }
+}
